@@ -19,11 +19,12 @@
 ---
 
 ## 🔥 Overview
-**Mercwar Avis Drop** is the next evolution of the Constellation system — a live, reactive interface built for high‑intensity AI portals and holo‑glass environments.  
-Version 9 introduces **RRU Live**, a real‑time rendering unit with dynamic drag‑drop pipelines and gold‑laser UI panels.
+- Mercwar Avis Drop is the next evolution of the Constellation system 
+- a live, reactive interface built for high‑intensity AI portals and holo‑glass environments.
+- Version 9 introduces **RRU Live**, a real‑time rendering unit with dynamic drag‑drop pipelines and gold‑laser UI panels.
 
 ---
-
+![Mercwar Avis Drop RRU Live v9 Banner](avis-drop1.png)
 ## 🧩 Core Features
 - ✨ **Dual‑Frame Laser UI** — stacked gold‑blue frame with cosmic grid background  
 - ⚡ **RRU Live Engine** — real‑time visual feedback and drag‑drop synchronization  
@@ -43,8 +44,13 @@ Version 9 introduces **RRU Live**, a real‑time rendering unit with dynamic
 
 ---
 
-## 🚀 Quick Start
-1. 📥 Clone the repo  
+
+## 🚀 Getting Started
+1. **Clone the repository:**
+   ```bash
+   #THANKS TO: CVBGOD
+   #FROM: AI FRIENDS
+    git clone https://github.com.git
 2. 🛠️ Build with MSVC 2022  
 3. ▶️ Run `build_drag.bat`  
 4. 🖥️ Launch `dragdrop.exe`  
