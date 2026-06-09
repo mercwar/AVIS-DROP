@@ -11,26 +11,28 @@
      VERSION: RRU LIVE v9
      ============================================================ -->
 
-### ✨ Mercwar Avis Drop — Coming Soon! 🛠️
+## ✨ Mercwar Avis Drop — Coming Soon! 🛠️
 
 
 ![Mercwar Avis Drop RRU Live v9 Banner](Copilot_20260608_232356.png)
 
 ---
 
-## 🔥 Overview
-- Mercwar Avis Drop is the next evolution of the Constellation system 
-- a live, reactive interface built for high‑intensity AI portals and holo‑glass environments.
-- Version 9 introduces **RRU Live**, a real‑time rendering unit with dynamic drag‑drop pipelines and gold‑laser UI panels.
+### 🔥 Overview
+- Joe Tron's <i>NEW</i> Version 9 Graphics !
+- Mercwar Avis Drop is the next evolution of the Constellation system .
+- A live, reactive interface built for high‑intensity AI portals and holo‑glass environments.
+- Introduces **RRU Live**, a real‑time rendering unit with dynamic drag‑drop pipelines and gold‑laser UI panels.
 
 ---
+
 ![Mercwar Avis Drop RRU Live v9 Banner](avis-drop1.png)
-## 🧩 Core Features
-- ✨ **Dual‑Frame Laser UI** — stacked gold‑blue frame with cosmic grid background  
-- ⚡ **RRU Live Engine** — real‑time visual feedback and drag‑drop synchronization  
-- 🔗 **Avis Gate Integration** — seamless portal control between Fire‑Star and Ice‑Star nodes  
-- 🪟 **Transparent Menu System** — flat laser plate for readable overlay items  
-- 🌌 **Constellation Core** — unified data‑flow for multi‑portal operations  
+#### 🧩 Core Features
+## - ✨ **Dual‑Frame Laser UI** — stacked gold‑blue frame with cosmic grid background  
+## - ⚡ **RRU Live Engine** — real‑time visual feedback and drag‑drop synchronization  
+## - 🔗 **Avis Gate Integration** — seamless portal control between Fire‑Star and Ice‑Star nodes  
+## - 🪟 **Transparent Menu System** — flat laser plate for readable overlay items  
+## - 🌌 **Constellation Core** — unified data‑flow for multi‑portal operations  
 
 ---
 
